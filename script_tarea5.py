@@ -1,6 +1,6 @@
 dinero = 2000
 precio_helado = 100
-hambre = edad = 25
+hambre = edad = 9
 contador = 0
 while (dinero >= precio_helado and hambre < 85):
     dinero = dinero - precio_helado
